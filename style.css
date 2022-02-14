@@ -1,0 +1,23 @@
+body {
+    background: #f1f1f1;
+}
+
+.course {
+  padding: 5px;
+  text-align: center;
+  background: white;
+}
+
+.text_size {
+    font-size: 20px;
+}
+
+.leftcolumn {
+  float: left;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
